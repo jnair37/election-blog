@@ -8,6 +8,9 @@
     <loc>https://example.org/categories/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.org/categories/example/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +21,6 @@
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/note/2017/06/13/a-quick-note/</loc>
